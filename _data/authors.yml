@@ -1,18 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Xiaojun Yang"
+  uri         : "yxj.github.io"
+  email       : "selina_yang1012@163.com"
+  bio         : "Hi, I'm Xiaojun Yang. I received my master’s degree from Tsinghua University and my bachelor’s degree from Shandong University.
+During my master’s program, I conducted research in time series analysis and representation learning.
+I am currently working in the autonomous driving industry in China, where I focus on synthetic videos generation. I am deeply interested in the societal impact of AI and am motivated to contribute meaningfully to the field. 
+                 "
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
